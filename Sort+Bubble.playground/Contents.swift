@@ -1,6 +1,6 @@
 import Foundation
 
-private func bubbleSort(_ array: [Int]) -> [Int] {
+private func bubbleAscendingSort<T: Comparable>(_ array: [T]) -> [T] {
     let n = array.count
     var array = array
     print("Initial: \(array)")
@@ -18,4 +18,4 @@ private func bubbleSort(_ array: [Int]) -> [Int] {
     return array
 }
 
-bubbleSort([5, 4, 3, 2, 1])
+bubbleAscendingSort([5, 4, 3, 2, 1])
