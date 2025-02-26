@@ -8,7 +8,7 @@
 | Дата       | Тема дня                       | Основная задача | Доп. задача (по желанию) |
 |------------|--------------------------------|-----------------|---------------------------|
 | 25 февраля | Введение. Big-O                | Разобрать `O(1), O(n), O(log n)` ✅| [344. Reverse String](https://leetcode.com/problems/reverse-string/) 🔄 ✅|
-| 26 февраля | Проверка на палиндром          | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) 🔍 | [387. First Unique Character](https://leetcode.com/problems/first-unique-character-in-a-string/) |
+| 26 февраля | Проверка на палиндром          | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) 🔍 ✅| [387. First Unique Character](https://leetcode.com/problems/first-unique-character-in-a-string/) ✅|
 | 27 февраля | Работа с массивами             | [283. Move Zeroes](https://leetcode.com/problems/move-zeroes/) 🚀 | [27. Remove Element](https://leetcode.com/problems/remove-element/) |
 | 28 февраля | Два указателя (Two Pointers)   | [167. Two Sum II](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) 🎯 | [26. Remove Duplicates](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |
 | 29 февраля | Разворот массива               | [189. Rotate Array](https://leetcode.com/problems/rotate-array/) 🔄 | [905. Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) |
