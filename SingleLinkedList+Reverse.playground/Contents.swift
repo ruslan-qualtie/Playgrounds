@@ -15,7 +15,7 @@ func reverseList(_ head: ListNode?) -> ListNode? {
 }
 
 func reverseListRecursive(_ head: ListNode?) -> ListNode? {
-    if head == nil || head?.next == nil { return head }
+    if head?.next == nil { return head }
     let newHead = reverseListRecursive(head?.next)
     head?.next?.next = head
     head?.next = nil
