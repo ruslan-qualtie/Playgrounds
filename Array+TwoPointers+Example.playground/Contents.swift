@@ -20,13 +20,17 @@ print(nums)
 
 func removeElement(_ nums: inout [Int], _ val: Int) -> Int {
     var left = 0
-
     for right in 0..<nums.count {
         if nums[right] != val {
             nums[left] = nums[right]
             left += 1
         }
     }
-    return left  // `left` - новая длина массива
+    return left
 }
+
+
+var nums2 = [3,2,2,3]
+print(removeElement(&nums2, 3))
+print(nums2)
 
