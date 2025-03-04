@@ -19,7 +19,7 @@
 | Дата      | Тема дня                        | Основная задача | Доп. задача (по желанию) |
 |-----------|---------------------------------|-----------------|---------------------------|
 | 3 марта   | Введение в связные списки       | Разобрать `ListNode` ✅| [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) 🔄 ✅|
-| 4 марта   | Удаление элемента из списка     | [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) | [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |
+| 4 марта   | Удаление элемента из списка     | [203. Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) ✅| [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |
 | 5 марта   | Поиск середины списка           | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) 🏃‍♂️ |
 | 6 марта   | Двусвязный список               | Разобрать разницу между одно- и двусвязными списками | [430. Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) |
 | 7 марта   | Палиндром связного списка       | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) | [19. Remove Nth Node From End](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |
