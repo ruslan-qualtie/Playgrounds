@@ -43,3 +43,13 @@
 | 20 марта  | Итоговая практика               | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |
 | 24 марта  | Финальный тест                  | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) |
 ---
+83. Remove Duplicates from Sorted List
+82. Remove Duplicates from Sorted List II
+2. Add Two Numbers
+445. Add Two Numbers II
+19. Remove Nth Node
+61. Rotate List
+160. Intersection of Two Linked Lists
+142. Linked List Cycle II
+283. Move Zero
+
