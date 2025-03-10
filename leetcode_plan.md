@@ -23,7 +23,7 @@
 | 5 марта   | Поиск середины списка           | [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) ✅| [141. Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) 🏃‍♂️  ✅|
 | 6 марта   | Двусвязный список               | Разобрать разницу между одно- и двусвязными списками ✅| [430. Flatten a Multilevel Doubly Linked List](https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list/) ✅|
 | 7 марта   | Палиндром связного списка       | [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) ✅| [19. Remove Nth Node From End](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) ✅|
-| 8 марта   | Итоговая практика               | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) ✅| | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) |
+| 8 марта   | Итоговая практика               | [160. Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) ✅| | [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) ✅|
 ---
 ## **📌 Неделя 3: Стек, очередь и рекурсия**
 | Дата      | Тема дня                        | Основная задача | Доп. задача (по желанию) |
@@ -46,7 +46,6 @@
 83. Remove Duplicates from Sorted List
 82. Remove Duplicates from Sorted List II
 445. Add Two Numbers II
-19. Remove Nth Node
 61. Rotate List
 142. Linked List Cycle II
 283. Move Zero
