@@ -28,7 +28,7 @@
 ## **📌 Неделя 3: Стек, очередь и рекурсия**
 | Дата      | Тема дня                        | Основная задача | Доп. задача (по желанию) |
 |-----------|---------------------------------|-----------------|---------------------------|
-| 10 марта  | Введение в стек и очередь       | Разобрать `LIFO`, `FIFO` | [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) 🏛 |
+| 10 марта  | Введение в стек и очередь       | Разобрать `LIFO`, `FIFO` ✅| [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) 🏛 ✅|
 | 11 марта  | Реализация стека                | [155. Min Stack](https://leetcode.com/problems/min-stack/) | [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/) |
 | 12 марта  | Реализация очереди              | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) | [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) |
 | 13 марта  | Очередь с приоритетами          | Разобрать `PriorityQueue` | [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) |
@@ -43,8 +43,3 @@
 | 20 марта  | Итоговая практика               | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |
 | 24 марта  | Финальный тест                  | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) | [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) |
 ---
-83. Remove Duplicates from Sorted List
-82. Remove Duplicates from Sorted List II
-445. Add Two Numbers II
-61. Rotate List
-142. Linked List Cycle II
