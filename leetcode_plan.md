@@ -48,5 +48,3 @@
 445. Add Two Numbers II
 61. Rotate List
 142. Linked List Cycle II
-283. Move Zero
-
