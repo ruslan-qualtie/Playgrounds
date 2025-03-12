@@ -1,35 +1,46 @@
 import Foundation
 
-class MyStack {
-    var queue: [Int]
+class MyQueue {
+    var inStack: [Int]
+    var outStack: [Int]
 
     init() {
-        queue = .init()
+        inStack = .init()
+        outStack = .init()
     }
     
     func push(_ x: Int) {
-        queue.append(x)
-        for _ in 0..<queue.count - 1 {
-            queue.append(queue.removeFirst())
-        }
+        inStack.append(x)
     }
     
     func pop() -> Int {
-        queue.removeFirst()
+        if outStack.isEmpty {
+            while !inStack.isEmpty {
+                outStack.append(inStack.removeLast())
+            }
+        }
+        return outStack.removeLast()
     }
     
-    func top() -> Int {
-        queue.first!
+    func peek() -> Int {
+        if outStack.isEmpty {
+            while !inStack.isEmpty {
+                outStack.append(inStack.removeLast())
+            }
+        }
+        return outStack.last!
     }
     
     func empty() -> Bool {
-        queue.isEmpty
+        inStack.isEmpty && outStack.isEmpty
     }
 }
 
-let stack = MyStack()
-stack.push(1)
-stack.push(2)
-print(stack.top()) // 2
-print(stack.pop()) // 2
-print(stack.empty()) // false
+let queue = MyQueue()
+
+queue.push(1)
+queue.push(2)
+
+print(queue.peek())  // 1
+print(queue.pop())  // 1
+print(queue.empty())  // false
