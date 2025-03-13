@@ -31,7 +31,7 @@
 | 10 марта  | Введение в стек и очередь       | Разобрать `LIFO`, `FIFO` ✅| [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) 🏛 ✅|
 | 11 марта  | Реализация стека                | [155. Min Stack](https://leetcode.com/problems/min-stack/) ✅| [225. Implement Stack using Queues](https://leetcode.com/problems/implement-stack-using-queues/)  ✅|
 | 12 марта  | Реализация очереди              | [232. Implement Queue using Stacks](https://leetcode.com/problems/implement-queue-using-stacks/) ✅| [622. Design Circular Queue](https://leetcode.com/problems/design-circular-queue/) ✅||
-| 13 марта  | Очередь с приоритетами          | Разобрать `PriorityQueue` | [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) |
+| 13 марта  | Очередь с приоритетами          | Разобрать `PriorityQueue` ✅| [703. Kth Largest Element in a Stream](https://leetcode.com/problems/kth-largest-element-in-a-stream/) ✅|
 | 14 марта  | Итоговая практика               | [1047. Remove All Adjacent Duplicates](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) | [739. Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) |
 ---
 ## **📌 Неделя 4: Хеш-таблицы и финальная подготовка**
