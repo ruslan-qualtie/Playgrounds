@@ -16,4 +16,4 @@ print(removeDuplicates("abbaca"))  // ➝ "ca"
 print(removeDuplicates("azxxzy"))  // ➝ "ay"
 print(removeDuplicates("a"))       // ➝ "a"
 print(removeDuplicates("aaaa"))    // ➝ ""
-print(removeDuplicates("abab"))
+print(removeDuplicates("abab"))    // ➝ abab
