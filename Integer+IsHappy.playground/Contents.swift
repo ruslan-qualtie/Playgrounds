@@ -24,4 +24,4 @@ private func digitsSquareSum(_ n: Int) -> Int {
 
 print("result of 19:", isHappy(19))
 
-print("result of 19:", isHappy(18))
+print("result of 18:", isHappy(18))
