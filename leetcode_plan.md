@@ -37,7 +37,7 @@
 ## **📌 Неделя 4: Хеш-таблицы и финальная подготовка**
 | Дата      | Тема дня                        | Основная задача | Доп. задача (по желанию) |
 |-----------|---------------------------------|-----------------|---------------------------|
-| 17 марта  | Введение в `Set` и `Dictionary` | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) |
+| 17 марта  | Введение в `Set` и `Dictionary` | [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) ✅| [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) |
 | 18 марта  | Поиск в хеш-таблице             | [1. Two Sum](https://leetcode.com/problems/two-sum/) | [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) |
 | 19 марта  | Работа со словарем              | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) | [202. Happy Number](https://leetcode.com/problems/happy-number/) |
 | 20 марта  | Итоговая практика               | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) | [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |
