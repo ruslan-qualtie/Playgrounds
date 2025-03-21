@@ -41,5 +41,5 @@
 | 18 марта  | Поиск в хеш-таблице             | [1. Two Sum](https://leetcode.com/problems/two-sum/) ✅| [49. Group Anagrams](https://leetcode.com/problems/group-anagrams/) ✅|
 | 19 марта  | Работа со словарем              | [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)  ✅| [202. Happy Number](https://leetcode.com/problems/happy-number/) ✅|
 | 20 марта  | Итоговая практика               | [36. Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) ✅| [128. Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) ✅|
-| 21 марта  | Финальный тест                  | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) ✅| [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) |
+| 21 марта  | Финальный тест                  | [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) ✅| [76. Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) ✅|
 ---
