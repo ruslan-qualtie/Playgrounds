@@ -32,6 +32,13 @@
 
 ### 📌 4️⃣ СПИСОК РЕШЕННЫХ ЗАДАЧ  
 
+#### **📌 Новое (21 марта 2025): Разворот двусвязного списка**  
+✅ **Reverse a Doubly Linked List** (реализовано на Swift)  
+   - Разобран алгоритм с `prev`, `curr`, `next`.  
+   - Разбор указателей (`next` ⇄ `prev`).  
+   - Итоговая сложность **O(n)**.  
+   - Код сохранён, если нужно повторить.  
+
 #### **Неделя 1: Базовые алгоритмы и массивы**
 ✅ 125. Valid Palindrome  
 ✅ 344. Reverse String  
@@ -40,9 +47,7 @@
 ✅ 27. Remove Element  
 ✅ 167. Two Sum II  
 ✅ 26. Remove Duplicates from Sorted Array  
-✅ 189. Rotate Array  
 ✅ 905. Sort Array By Parity  
-✅ 11. Container With Most Water  
 ✅ 121. Best Time to Buy and Sell Stock  
 
 #### **Неделя 2: Связные списки**
@@ -51,32 +56,21 @@
 ✅ 21. Merge Two Sorted Lists  
 ✅ 876. Middle of the Linked List  
 ✅ 141. Linked List Cycle  
-✅ 430. Flatten a Multilevel Doubly Linked List  
 ✅ 234. Palindrome Linked List  
-✅ 19. Remove Nth Node From End of List  
 ✅ 160. Intersection of Two Linked Lists  
-✅ 2. Add Two Numbers  
 
 #### **Неделя 3: Стек, очередь и рекурсия**
 ✅ 20. Valid Parentheses  
 ✅ 155. Min Stack  
 ✅ 225. Implement Stack using Queues  
 ✅ 232. Implement Queue using Stacks  
-✅ 622. Design Circular Queue  
-✅ 703. Kth Largest Element in a Stream  
 ✅ 1047. Remove All Adjacent Duplicates in String  
-✅ 739. Daily Temperatures  
 
 #### **Неделя 4: Хеш-таблицы и финальная подготовка**
 ✅ 217. Contains Duplicate  
 ✅ 349. Intersection of Two Arrays  
 ✅ 1. Two Sum  
-✅ 49. Group Anagrams  
 ✅ 242. Valid Anagram  
 ✅ 202. Happy Number  
-✅ 36. Valid Sudoku  
-✅ 128. Longest Consecutive Sequence  
-✅ 239. Sliding Window Maximum  
-✅ 76. Minimum Window Substring  
 
 🔥 **При запуске новой сессии просто загрузи этот файл, и мы продолжим с нужной точки!** 😊  
