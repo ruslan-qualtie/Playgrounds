@@ -13,12 +13,10 @@ func largestInteger(_ nums: [Int], _ k: Int) -> Int {
             freq[key, default: 0] += 1
         }
         if i < nums.count - k {
-            if let lf = subFreq[nums[i]] {
-                if lf == 1 {
-                    subFreq[nums[i]] = nil
-                } else {
-                    subFreq[nums[i]]! -= 1
-                }
+            if subFreq[nums[i]]! == 1 {
+                subFreq[nums[i]] = nil
+            } else {
+                subFreq[nums[i]]! -= 1
             }
             subFreq[nums[i + k], default: 0] += 1
         }
