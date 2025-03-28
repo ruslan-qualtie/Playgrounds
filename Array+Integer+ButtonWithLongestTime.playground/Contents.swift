@@ -4,20 +4,14 @@
 import UIKit
 
 func buttonWithLongestTime(_ events: [[Int]]) -> Int {
-    var acc = [Int: Int](), time = 0, maxValue = 0, minKey = -1
-    for event in events {
-        let eTime = acc[event[0], default: 0]
-        if eTime < event[1] - time {
-            acc[event[0]] = event[1] - time
-        }
-        time += event[1] - time
-    }
-    for (key, value) in acc {
-        if value > maxValue {
-            maxValue = value
-            minKey = key
-        } else if value == maxValue {
-            minKey = min(minKey, key)
+    var time = events[0][1], maxTime = events[0][1], minKey = events[0][0]
+    for i in 1..<events.count {
+        time = events[i][1] - events[i - 1][1]
+        if time > maxTime {
+            maxTime = time
+            minKey = events[i][0]
+        } else if time == maxTime {
+            minKey = min(minKey, events[i][0])
         }
     }
     return minKey
